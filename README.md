@@ -1,5 +1,5 @@
 
-# Netflix Dataset EDA 📊
+# Netflix Dataset 
 
 This project performs **Exploratory Data Analysis (EDA)** on the Netflix Titles dataset to uncover insights about content trends, genre distribution, release patterns, ratings, and movie durations. The analysis includes **data cleaning, preprocessing, and visualization** to better understand Netflix’s content library.
 
@@ -41,6 +41,4 @@ This project performs **Exploratory Data Analysis (EDA)** on the Netflix Titles 
 - Time-series plots  
 - Duration distribution charts  
 
-│── Netflix_EDA.ipynb
-│── netflix_titles.csv
-│── README.md
+
